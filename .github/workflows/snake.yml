@@ -7,6 +7,10 @@ on:
   
   # Allows manual trigger through the Actions tab
   workflow_dispatch:
+  
+# Sets permissions of the GITHUB_TOKEN
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -19,7 +23,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: YOUR-EXACT-USERNAME-HERE
           # SVG outputs
           outputs: |
             dist/github-contribution-grid-snake.svg
