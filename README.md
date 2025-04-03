@@ -1,4 +1,4 @@
-# 👋 Hello, I'm NG JIA WEN!
+# 👋 Hello, I'm JIA WEN (JERMAINE)!
 
 🎓 **Education**: Information Systems Undergraduate at [Singapore Management University](https://www.smu.edu.sg)
 
@@ -16,9 +16,10 @@
 ## 📈 GitHub Stats
 
 ![JIAWEN-NG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JIAWEN-NG&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAWEN-NG&layout=compact&theme=default)
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jiawen-ng)
+- [LinkedIn](https://www.linkedin.com/in/ng-jia-wen-2002/)
 - [Personal Portfolio](https://jiawen-ng.github.io/)
 
