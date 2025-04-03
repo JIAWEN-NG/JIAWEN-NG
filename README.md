@@ -15,7 +15,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ![Snake animation](https://raw.githubusercontent.com/JIAWEN-NG/JIAWEN-NG/output/github-contribution-grid-snake.svg)
+
 
 
 ## 📈 GitHub Stats
