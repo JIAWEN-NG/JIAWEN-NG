@@ -16,7 +16,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![Snake animation](https://github.com/JIAWEN-NG/JIAWEN_NG/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/JIAWEN-NG/JIAWEN-NG/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
