@@ -1,5 +1,8 @@
 # 👋 Hello, I'm JIA WEN (JERMAINE)!
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+
 🎓 **Education**: Information Systems Undergraduate at [Singapore Management University](https://www.smu.edu.sg)
 
 ## 🔧 Technologies & Tools
@@ -15,8 +18,12 @@
 
 ## 📈 GitHub Stats
 
-![JIAWEN-NG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JIAWEN-NG&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JIAWEN-NG&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIAWEN-NG&layout=compact&theme=default)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=JIAWEN-NG&theme=gruvbox&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+![Snake animation](https://github.com/JIAWEN-NG/JIAWEN-NG/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ## 🔗 Connect with Me
 
