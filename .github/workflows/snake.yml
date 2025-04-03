@@ -23,7 +23,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: YOUR-EXACT-USERNAME-HERE
+          github_user_name: JIAWEN-NG
           # SVG outputs
           outputs: |
             dist/github-contribution-grid-snake.svg
