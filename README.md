@@ -1,4 +1,4 @@
-# 👋 Hello, I'm JIA WEN (JERMAINE)!
+# 👋 Hello, I'm JIA WEN (Wenz)!
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
