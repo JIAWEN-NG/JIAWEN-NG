@@ -32,5 +32,5 @@
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ng-jia-wen-2002/)
-- [Personal Portfolio](https://jiawen-ng.github.io/)
+- [Personal Portfolio](https://my-personal-web-wheat.vercel.app/)
 
