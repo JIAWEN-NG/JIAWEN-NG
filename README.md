@@ -31,9 +31,8 @@
 
 
 ## 📈 GitHub Stats
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIAWEN-NG&layout=compact"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app)
+
 
 
 ## 🔗 Connect with Me
