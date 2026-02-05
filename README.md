@@ -5,7 +5,6 @@
 
 🎓 **Education**: Information Systems Undergraduate at [Singapore Management University](https://www.smu.edu.sg)
 
-## 🔧 Technologies & Tools
 
 ## 🔧 Technologies & Tools
 
@@ -32,14 +31,9 @@
 
 
 ## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=JIAWEN-NG&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIAWEN-NG&layout=compact" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=JIAWEN-NG&row=2&column=3" />
-
-
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIAWEN-NG&layout=compact"
+/>
 
 
 ## 🔗 Connect with Me
