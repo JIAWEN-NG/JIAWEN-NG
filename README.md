@@ -31,7 +31,7 @@
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JIAWEN-NG)](https://git.io/streak-stats)
 
 
 
