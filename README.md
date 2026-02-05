@@ -31,7 +31,7 @@
 
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JIAWEN-NG)](https://git.io/streak-stats)
+[[![GitHub Streak](https://streak-stats.demolab.com/?user=JIAWEN-NG)](https://git.io/streak-stats)](https://pixel-profile.vercel.app/api/github-stats?username=JIAWEN-NG&screen_effect=true&theme=rainbow)
 
 
 
