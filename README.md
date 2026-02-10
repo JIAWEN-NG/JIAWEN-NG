@@ -32,6 +32,8 @@
 
 ## 📈 GitHub Stats
 <img src="https://pixel-profile.vercel.app/api/github-stats?username=JIAWEN-NG&theme=fuji&screen_effect=false&dithering=true" />
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=JIAWEN-NG)
+
 
 
 
